@@ -1,12 +1,12 @@
-package com.example.chooseyourownadventure;
+package com.example.chooseyourownadventure.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
-import android.nfc.Tag;
 import android.os.Bundle;
 import android.util.Log;
-import android.widget.Toast;
+
+import com.example.chooseyourownadventure.R;
 
 public class StoryActivity extends AppCompatActivity {
 
