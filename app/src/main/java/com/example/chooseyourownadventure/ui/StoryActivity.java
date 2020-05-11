@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 import com.example.chooseyourownadventure.R;
+import com.example.chooseyourownadventure.model.Page;
 
 public class StoryActivity extends AppCompatActivity {
 
